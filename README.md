@@ -1,6 +1,6 @@
 # 1st Cavalry Division - Mike Force Public Server Changelog
 
-![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)
+[![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
 
 ***
 
@@ -27,7 +27,8 @@
 + Added Admin Panel
 + Added Headless Client
 + Set player limit to 67
-+ Removed Stamina 
++ Removed Stamina
++ Added [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978)
 
 ***
 
@@ -38,6 +39,6 @@
 ![TFAR TS Install Infographic](/assets/tfar-ts-install.jpg)
 
 + Added [CBA_A3](https://steamcommunity.com/workshop/filedetails/?id=450814997)
-+ Added [Enhanced Movemen](https://steamcommunity.com/workshop/filedetails/?id=333310405)
++ Added [Enhanced Movement](https://steamcommunity.com/workshop/filedetails/?id=333310405)
 + Added [Enhanced Movement: Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
 + Added [DUI HUD](https://steamcommunity.com/workshop/filedetails/?id=1638341685)
