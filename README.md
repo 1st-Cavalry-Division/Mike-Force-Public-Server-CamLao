@@ -9,6 +9,7 @@
 + Fixing drawing in Global issue
 + Scheduling server restarts every 6 hours
 + Adding second headless client
++ Modified text on map and in briefing to be more understandable.
 
 ***
 
