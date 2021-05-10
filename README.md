@@ -4,6 +4,16 @@
 
 ***
 
+### May 10th 
++ Actually fixed the markers/drawing issue this time
++ Added Channel 44 for ACAV TFAR
++ Fixed server restarts (Arma Server was double loading on restart)
++ Updated Discord links in map and briefing tab.
++ Upgraded server with more resources to increase performance
++ Second headless client now functional (Forgot some config)
+
+***
+
 ### May 9th
 + Increased player limit to 50 slots
 + Fixing drawing in Global issue
@@ -42,3 +52,5 @@
 + Added [Enhanced Movement](https://steamcommunity.com/workshop/filedetails/?id=333310405)
 + Added [Enhanced Movement: Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
 + Added [DUI HUD](https://steamcommunity.com/workshop/filedetails/?id=1638341685)
++ Added [Enhanced Sound Scapes](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978)
++ Added [Enhanced Missisle Smoke](https://steamcommunity.com/sharedfiles/filedetails/?id=1484261993)
