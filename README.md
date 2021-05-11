@@ -1,6 +1,17 @@
 # 1st Cavalry Division - Mike Force Public Server Changelog
 
 [![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
+***
+
+### May 11th
++ Actually fixed the restarts this time - 6h schedule.
++ Increased slots to 52 to account for x2 headless clients.
++ Fixed HC2
++ Fixed another 2 errors with InfiStar (When will it end?)
++ Added more scroll messages about attacking zones.
++ Added rules in briefing about Zones.
++ TFAR is now a requirement if you wish to be a pilot.
+
 
 ***
 
