@@ -1,6 +1,16 @@
 # 1st Cavalry Division - Mike Force Public Server Changelog
 
 [![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
+
+***
+
+### May 12th
++ Increased frequency of pilot warning message
++ Another Infistar fix (hopefully)
++ Reduced to slots back to 50 due to HC bug
++ Added server restart advisory to scrolling messages
++ Fixed some typos in stringtable to prevent RPT spam
+
 ***
 
 ### May 11th
