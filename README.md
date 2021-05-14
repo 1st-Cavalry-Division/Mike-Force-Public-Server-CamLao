@@ -4,6 +4,17 @@
 
 ***
 
+### May 14th
++ TFAR is now enforced (this is for the weekend as a test for now)
++ New admin script added
++ TK Tracking now in place
++ Added new rule about FOB Building
++ Reset mission ready for the weekend
++ Fixed bug with markers getting removed.
++ Changed some CBA settings
+
+***
+
 ### May 12th
 + Increased frequency of pilot warning message
 + Another Infistar fix (hopefully)
