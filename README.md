@@ -4,6 +4,17 @@
 
 ***
 
+### May 19th
++ Added marker area for callsigns
++ Updated admin scripts
++ Added TFAR Check
++ Modified ACAV Channel
++ Another InfiStar Fix
++ Locked all choppers to Green Hornets
++ Added new Pilot rule.
+
+***
+
 ### May 14th
 + TFAR is now enforced (this is for the weekend as a test for now)
 + New admin script added
